@@ -1,4 +1,5 @@
 📄 Resume Parsing & Candidate Matching Platform
+
 📘 Summary
 
 The Resume Parsing & Candidate Matching Platform is a Streamlit-powered recruitment assistant designed to simplify resume screening.
